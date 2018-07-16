@@ -1,0 +1,15 @@
+Name: Hello World Logging Plugin
+Author: Stephen Joyner
+Artifact Type: java-plugin
+Version: 0.1
+Rundeck Compatibility: 3.x
+Support: Rundeck
+License: Apache-2.0
+GUID: aeca1927-e2ec-4530-8043-e8b6ad2b211e
+Tags:
+    - hello-world
+    - example
+    - logging
+Required Services : None
+Source Link: https://github.com/sjoyner/plug1
+Binary Link: https://bintray.com/sjbtrayoss/plugins/plug1
